@@ -1,0 +1,5 @@
+{
+	"ip":"Crazieverse.aternos.me:56169",
+	"port": "56169",
+	"name": "Ghochu"
+}
